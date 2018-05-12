@@ -1,0 +1,30 @@
+_repo: Old-Time-Wall-PapersPaper-Making-and-Decoration_41664
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sanborn, Kate
+    alias: Sanborn, Katherine Abbott
+    birthdate: 1839
+    deathdate: 1917
+    gutenberg_agent_id: '4181'
+    url: http://www.gutenberg.org/2009/agents/4181
+description: ''
+gutenberg_issued: '2012-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41664'
+  lccn: 06001909
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Interior decoration -- History'
+- !lcc 'NK'
+- !lcsh 'Wallpaper'
+title: "Old Time Wall Papers\r\nAn Account of the Pictorial Papers on Our Forefathers'\
+  \ Walls with a Study of the Historical Development of Wall Paper Making and Decoration"
+url: http://www.gutenberg.org/ebooks/41664
