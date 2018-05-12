@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '4181'
     url: http://www.gutenberg.org/2009/agents/4181
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41664#Old-Time-Wall-PapersPaper-Making-and-Decoration
 gutenberg_issued: '2012-12-19'
 gutenberg_type: Text
 identifiers:
